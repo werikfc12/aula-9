@@ -1,0 +1,31 @@
+:root {
+--background: #181818;
+ --primary-900: #ff004c;
+
+--border--radious-md: 1rem;
+--border: 1px solid  #FF0000;
+
+div {
+ background: yellow;
+
+}
+
+}
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(193,26,26,1) 54%);
+div {
+h1 {
+
+    div
+  background: yellow;  
+
+  h2 {
+   background: blue; 
+
+  }
+}
+
+}
+
+}
